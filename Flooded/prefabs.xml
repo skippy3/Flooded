@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefabs>
+	<!-- main city buildings-->
+	<decoration rotation="3" position="15, 44, 16" name="skyscraper_03" type="model"/>
+	<decoration rotation="0" position="-84, 44, 16" name="skyscraper_03" type="model"/>
+	<decoration rotation="2" position="15, 44, -93" name="skyscraper_01" type="model"/>
+	<decoration rotation="1" position="-96, 44, -116" name="gas_station9" type="model"/>
+	<decoration rotation="1" position="-104, 44, -55" name="aaa_fort_01" type="model"/>
+	<decoration rotation="2" position="-165, 45, -52" name="apartment_adobe_red_5_flr" type="model"/>
+	<decoration rotation="3" position="-177, 22, -102" name="church_01" type="model"/>
+	<decoration rotation="3" position="-223, 44, -94" name="park_02" type="model"/>
+	<decoration rotation="2" position="-227, 41, -48" name="post_office_med_01" type="model"/>
+	<decoration rotation="0" position="-227, 39, 16" name="theatre_01" type="model"/>
+	<decoration rotation="1" position="-183, 45, 16" name="mp_waste_bldg_governer_08" type="model"/>
+	<decoration rotation="0" position="-132, 45, 16" name="parking_garage_01" type="model"/>
+	<decoration rotation="0" position="-228, 38, -238" name="hospital_01" type="model"/>
+	<decoration rotation="0" position="-101, 38, -238" name="apartment_brick_6_flr" type="model"/>
+	<decoration rotation="1" position="-56, 44, -157" name="bar_theater_01" type="model"/>
+	<decoration rotation="1" position="-48, 45, -238" name="mp_waste_bldg_06_grey" type="model"/>
+	<decoration rotation="1" position="-48, 44, -214" name="fire_station_02" type="model"/>
+	<decoration rotation="1" position="168, 44, 192" name="skyscraper_02" type="model"/>
+	<decoration rotation="1" position="197, 37, 97" name="docks_03" type="model"/>
+	<decoration rotation="0" position="198, 44, 16" name="business_old_08" type="model"/>
+	<!--<decoration rotation="0" position="198, 44, 16" name="business_old_05" type="model"/>-->
+	<decoration rotation="1" position="209, 44, 58" name="fastfood_01" type="model"/>
+	<decoration rotation="2" position="111, 44, 194" name="business_strip_old_01" type="model"/>
+	<!-- Industrial district -->
+	<decoration rotation="0" position="77, 44, 16" name="factory_lg_01" type="model"/>
+	<decoration rotation="3" position="15, 39, 105" name="factory_lg_02" type="model"/>
+	<decoration rotation="2" position="48, 40, 208" name="business_strip_old_03" type="model"/>
+	<!--Commercial district -->
+	<decoration rotation="2" position="-74, 44, -57" name="skyscraper_04" type="model"/>
+	<decoration rotation="0" position="15, 44, -238" name="store_hardware_lg_01" type="model"/>
+	<decoration rotation="3" position="15, 44, -187" name="store_gun_lg_01" type="model"/>
+	<decoration rotation="3" position="15, 44, -142" name="store_autoparts_01" type="model"/>
+	<decoration rotation="0" position="56, 44, -238" name="store_grocery_lg_01" type="model"/>
+	<decoration rotation="0" position="112, 44, -210" name="store_laundry_01" type="model"/>
+	<decoration rotation="3" position="145, 44, -203" name="store_bank_lg_01" type="model"/>
+	<decoration rotation="3" position="205, 44, -209" name="store_pawn_01" type="model"/>
+	<decoration rotation="3" position="201, 44, -129" name="store_hardware_sm_01" type="model"/>
+	<decoration rotation="1" position="109, 44, -131" name="store_book_lg_01" type="model"/>
+	<decoration rotation="3" position="201, 44, -166" name="store_book_sm_01" type="model"/>
+	<decoration rotation="2" position="176, 40, -85" name="gas_station5" type="model"/>
+
+	<!--Workers district -->
+	<decoration rotation="0" position="15, 31, 270" name="utility_waterworks_01" type="model"/>
+	<decoration rotation="3" position="60, 44, 270" name="parking_lot_03" type="model"/>
+	<decoration rotation="0" position="112, 44, 270" name="settlement_trader_01" type="model"/>
+	<decoration rotation="0" position="160, 44, 270" name="survivor_site_05" type="model"/>
+	<decoration rotation="0" position="163, 41, 308" name="survivor_site_04" type="model"/>
+	<decoration rotation="0" position="118, 44, 333" name="survivor_site_03" type="model"/>
+	<decoration rotation="0" position="208, 44, 311" name="survivor_site_02" type="model"/>
+	<decoration rotation="0" position="185, 44, 270" name="utility_celltower_02" type="model"/>
+	<decoration rotation="3" position="15, 44, 326" name="utility_refinery_01" type="model"/>
+	<decoration rotation="1" position="198, 37, 338" name="utility_electric_co_01" type="model"/>
+	<decoration rotation="3" position="15, 44, 395" name="hotel_roadside_01" type="model"/>
+	<decoration rotation="3" position="15, 44, 443" name="house_old_modular_05" type="model"/>
+	<decoration rotation="2" position="104, 44, 436" name="trailer_park_01" type="model"/>
+	<decoration rotation="1" position="210, 44, 385" name="house_old_modular_07" type="model"/>
+	<decoration rotation="2" position="64, 44, 459" name="house_old_modular_02" type="model"/>
+	<decoration rotation="2" position="195, 41, 434" name="army_camp_03" type="model"/>
+	<decoration rotation="0" position="221, 44, 274" name="warehouse_01" type="model"/>	   
+	<!--Victorian District -->
+	<decoration rotation="1" position="-61, 35, 77" name="courthouse_med_01" type="model"/>
+	<decoration rotation="1" position="-59, 44, 133" name="hotel_ostrich" type="model"/>
+	<decoration rotation="1" position="-59, 44, 186" name="carlot_01" type="model"/>
+	<decoration rotation="3" position="-227, 36, 146" name="house_old_victorian_10" type="model"/>
+	<decoration rotation="0" position="-181, 44, 146" name="house_old_victorian_09" type="model"/>
+	<decoration rotation="3" position="-227, 38, 179" name="house_old_victorian_08" type="model"/>
+	<decoration rotation="3" position="-227, 39, 209" name="house_old_victorian_07" type="model"/>
+	<decoration rotation="3" position="-165, 41, 203" name="house_old_victorian_06" type="model"/>
+	<decoration rotation="3" position="-227, 44, 97" name="business_old_07" type="model"/>
+	<decoration rotation="2" position="-161, 35, 75" name="house_old_victorian_01" type="model"/>
+	<!--ponds-->
+	<decoration rotation="3" position="127, 35, 118" name="pond02" type="model"/>
+	<decoration rotation="1" position="-105, 35, -36" name="pond02" type="model"/>
+	<decoration rotation="1" position="134, 35, 397" name="pond02" type="model"/>
+	<decoration rotation="3" position="17, 35, 207" name="pond01" type="model"/>
+	<!--river area-->
+	<decoration rotation="2" position="-399, 44, -13" name="bridge_asphalt1" type="model"/>	
+	<decoration rotation="2" position="-399, 39, 5" name="bridge_asphalt_broken" type="model"/>		
+	<decoration rotation="0" position="-489, 33, 16" name="cemetery_02" type="model"/>
+	<decoration rotation="3" position="-431, 45, 6" name="roadblock_01" type="model"/>
+	<decoration rotation="3" position="-431, 45, -3" name="roadblock_01" type="model"/>
+	<decoration rotation="3" position="-431, 45, -12" name="roadblock_01" type="model"/>
+	<decoration rotation="3" position="-431, 45, -21" name="roadblock_01" type="model"/>	
+	<decoration rotation="0" position="-335, 44, 16" name="fastfood_04" type="model"/>
+	<decoration rotation="2" position="-347, 44, -70" name="fastfood_02" type="model"/>		
+	<decoration rotation="3" position="-489, 40, -75" name="hotel_new_01" type="model"/>
+	<decoration rotation="2" position="-450, 42, 16" name="cabin_12" type="model"/>	
+	<decoration rotation="0" position="-300, 44, 16" name="fastfood_01" type="model"/>
+	<decoration rotation="3" position="-489, 33, -115" name="cabin_11" type="model"/>	
+	<decoration rotation="3" position="-489, 39, -192" name="cabin_10" type="model"/>		
+	<decoration rotation="3" position="-489, 44, 91" name="cabin_09" type="model"/>	
+	<decoration rotation="3" position="-489, 44, -266" name="cabin_08" type="model"/>	
+	<decoration rotation="3" position="-489, 44, 170" name="cabin_07" type="model"/>
+	<decoration rotation="3" position="-489, 39, 224" name="cabin_06" type="model"/>
+	<decoration rotation="3" position="-489, 41, 315" name="cabin_05" type="model"/>
+	<decoration rotation="3" position="-489, 44, 376" name="cabin_04" type="model"/>	
+	<decoration rotation="0" position="-399, 34, 439" name="docks_02" type="model"/>
+	<decoration rotation="1" position="-288, 44, 427" name="cabin_03" type="model"/>
+	<decoration rotation="2" position="-325, 44, 449" name="settlement_trader_02" type="model"/>  
+	<decoration rotation="3" position="-489, 35, 442" name="gas_station4" type="model"/>	
+	<decoration rotation="1" position="-293, 41, 370" name="cabin_02" type="model"/>	
+	<decoration rotation="1" position="-288, 44, 332" name="cabin_01" type="model"/>
+	<decoration rotation="1" position="-309, 39, 283" name="house_old_tudor_03" type="model"/>		
+	<decoration rotation="1" position="-298, 44, -482" name="house_old_ranch_07" type="model"/>	
+	<decoration rotation="1" position="-300, 40, -240" name="house_old_ranch_10" type="model"/>	
+	<decoration rotation="1" position="-310, 42, -308" name="house_old_ranch_02" type="model"/>	
+	<decoration rotation="1" position="-301, 38, -194" name="house_old_ranch_04" type="model"/>	
+	<decoration rotation="1" position="-299, 41, -134" name="house_old_ranch_05" type="model"/>	
+	<decoration rotation="2" position="-285, 44, -63" name="business_old_06" type="model"/>		
+	<decoration rotation="1" position="-306, 42, 71" name="business_old_03" type="model"/>			
+	<decoration rotation="1" position="-314, 41, 110" name="house_old_mansard_01" type="model"/>	
+	<decoration rotation="1" position="-308, 38, 162" name="house_old_mansard_02" type="model"/>
+	<decoration rotation="3" position="-309, 41, 214" name="house_old_mansard_03" type="model"/>	
+	<!-- Tudor Discrict -->
+	<decoration rotation="0" position="-227, 15, 270" name="house_old_tudor_01" type="model"/>	
+	<decoration rotation="2" position="-227, 44, 331" name="house_old_tudor_02" type="model"/>	
+	<decoration rotation="2" position="-227, 41, 392" name="house_old_tudor_04" type="model"/>
+	<decoration rotation="0" position="-170, 40, 271" name="house_old_mansard_04" type="model"/>	
+	<decoration rotation="0" position="-106, 43, 270" name="house_old_mansard_05" type="model"/>
+	<decoration rotation="2" position="-56, 38, 270" name="house_old_mansard_06" type="model"/>	
+	<decoration rotation="2" position="-107, 41, 330" name="house_old_tudor_05" type="model"/>	
+	<decoration rotation="2" position="-176, 41	, 316" name="house_old_tudor_06" type="model"/>		
+	<decoration rotation="0" position="-163, 35	, 389" name="house_old_gambrel_01" type="model"/>	
+	<decoration rotation="0" position="-107, 44	, 389" name="house_old_gambrel_02" type="model"/>		
+	<decoration rotation="0" position="-62, 23	, 389" name="house_old_gambrel_03" type="model"/>   	
+	<decoration rotation="3" position="-227, 44	, 445" name="funeral_home_01" type="model"/>
+	<decoration rotation="0" position="-194, 44	, 389" name="garage_07" type="model"/>	
+	<decoration rotation="2" position="-171, 44	, 464" name="abandoned_house_07" type="model"/>	
+	<decoration rotation="2" position="-110, 44	, 461" name="bar_sm_01" type="model"/>	
+	<decoration rotation="0" position="-74, 44	, 389" name="garage_06" type="model"/>	
+	<decoration rotation="1" position="-162, 44	, 444" name="garage_05" type="model"/>	
+	<!--school district-->
+	<decoration rotation="0" position="-65, 44, -494" name="school_daycare_01" type="model"/>
+	<decoration rotation="0" position="-227, 44, -494" name="football_stadium" type="model"/>
+
+	<decoration rotation="2" position="-138, 44, -345" name="school_k6_01" type="model"/>
+	<decoration rotation="2" position="-80, 41, -329" name="skate_park_01" type="model"/>	
+	<!--burnt district-->
+	<decoration rotation="0" position="278, 45, 270" name="mp_waste_bldg_01_red" type="model"/>	
+	<decoration rotation="0" position="318, 44, 270" name="houseburnt5" type="model"/>		
+	<decoration rotation="0" position="353, 44, 270" name="mp_waste_bldg_03_tan" type="model"/>			
+	<decoration rotation="0" position="442, 45, 270" name="houseburnt3b" type="model"/>		
+	<decoration rotation="0" position="458, 45, 270" name="houseburnt3" type="model"/>
+	<decoration rotation="0" position="423, 42, 270" name="houseburnt2" type="model"/>	
+	<decoration rotation="0" position="408, 44, 270" name="garage_02" type="model"/>
+	<decoration rotation="3" position="278, 44, 303" name="bar_stripclub_01" type="model"/>	
+	<decoration rotation="3" position="474, 44, 270" name="houseburnt1" type="model"/>		
+	<decoration rotation="3" position="278, 44, 345" name="mp_waste_bldg_03_white" type="model"/>		
+	<decoration rotation="2" position="324, 44, 319" name="warehouse_01" type="model"/>	
+	<decoration rotation="3" position="400, 44, 310" name="abandoned_house_01" type="model"/>
+	<decoration rotation="2" position="307, 44, 349" name="garage_06" type="model"/>	
+	<decoration rotation="2" position="356, 44, 351" name="oldwest_md_shop_04" type="model"/>		
+</prefabs>
